@@ -51,7 +51,7 @@ cv2.putText(img,
             fontScale=0.5, 
             color=(255, 255, 255))
 cv2.putText(img, 
-            "Neptue", 
+            "Neptune", 
             (1110, 150), 
             fontFace=cv2.FONT_HERSHEY_COMPLEX,
             fontScale=0.5, 
